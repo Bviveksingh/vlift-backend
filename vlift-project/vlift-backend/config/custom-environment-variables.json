@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "service_jwtPrivateKey",
+    "db": "services"
+}
